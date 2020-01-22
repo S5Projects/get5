@@ -2,12 +2,12 @@
 {
     "ReadyToVetoInfoMessage"
     {
-        "en"            "Type {GREEN}!ready {NORMAL}when your team is ready to veto."
+        "ja"            "チームのVetoが準備が出来たら{GREEN}!ready{NORMAL}と発言してください。"
     }
     "WaitingForCastersReadyInfoMessage"
     {
         "#format"       "{1:s}"
-        "en"            "Waiting for {1} to type {GREEN}!ready {NORMAL}to begin."
+        "ja"            "試合を開始する為に{1}の{GREEN}!ready{NORMAL}を待っています。"
     }
     "ReadyToRestoreBackupInfoMessage"
     {
