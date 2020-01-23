@@ -11,11 +11,11 @@
     }
     "ReadyToRestoreBackupInfoMessage"
     {
-        "en"            "Type {GREEN}!ready {NORMAL}when you are ready to restore the match backup."
+        "ja"            "試合のバックアップの準備が出来たら{GREEN}!ready{NORMAL}と発言してください。"
     }
     "ReadyToKnifeInfoMessage"
     {
-        "en"            "Type {GREEN}!ready {NORMAL}when you are ready to knife."
+        "ja"            "ナイフラウンドの準備が出来たら{GREEN}!ready{NORMAL}と発言してください。"
     }
     "ReadyToStartInfoMessage"
     {
