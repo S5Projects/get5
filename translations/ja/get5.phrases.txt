@@ -19,28 +19,28 @@
     }
     "ReadyToStartInfoMessage"
     {
-        "en"            "Type {GREEN}!ready {NORMAL}when you are ready to begin."
+        "ja"            "試合開始の準備が出来たら{GREEN}!ready{NORMAL}と発言してください。"
     }
     "YouAreReady"
     {
-        "en"            "You have been marked as ready."
+        "ja"            "試合の準備を完了しました。"
     }
     "YouAreNotReady"
     {
-        "en"            "You have been marked as NOT ready."
+        "ja"            "試合の準備を外しました。"
     }
     "WaitingForEnemySwapInfoMessage"
     {
         "#format"       "{1:s}"
-        "en"            "{1} won the knife round. Waiting for them to type !stay or !swap."
+        "ja"            "{1}がナイフラウンドに勝利しました。{1}の!swap又は!stay選択を待っています。"
     }
     "WaitingForGOTVBrodcastEndingInfoMessage"
     {
-        "en"            "The map will change once the GOTV broadcast has ended."
+        "ja"            "GOTVの放送が終了すると、マップが変更されます。"
     }
     "WaitingForGOTVVetoInfoMessage"
     {
-        "en"            "The map will change once the GOTV broadcast has been displayed the map vetos."
+        "ja"            "GOTVの放送が終了すると、Vetoが表示されます。"
     }
     "NoMatchSetupInfoMessage"
     {
