@@ -44,36 +44,36 @@
     }
     "NoMatchSetupInfoMessage"
     {
-        "en"			"There is no match setup"
+        "ja"			"試合の設定が見つかりません。"
     }
     "YourAreNotAPlayerInfoMessage"
     {
-        "en"            "You are not a player in this match"
+        "ja"            "あなたは試合のプレイヤーではありません。"
     }
     "TeamIsFullInfoMessage"
     {
-        "en"            "Your team is full"
+        "ja"            "あなたのチームは満員です!"
     }
     "TeamForfeitInfoMessage"
     {
         "#format"       "{1:s}"
-        "en"            "{1} failed to ready up in time and has forfeit."
+        "ja"            "{1} が時間内に準備完了出来なかったため、不戦となりました。"
     }
     "MinutesToForfeitMessage"
     {
         "#format"       "{1:s},{2:d}"
-        "en"            "{1} has {2} minutes left to ready up or they will forfeit the match."
+        "ja"            "{1} が {2} 分後までに準備完了しない場合試合は不戦となります。"
     }
     "SecondsToForfeitInfoMessage"
     {
         "#format"       "{1:s},{2:d}"
-        "en"            "{1} has {2} seconds left to ready up or they will forfeit the match."
+        "ja"            "{1} が {2} 秒後までに準備完了しない場合試合は不戦となります。"
     }
     "10SecondsToForfeitInfoMessage"
     {
         "#format"       "{1:s}"
-        "en"            "{1} has 10 seconds to ready up or forfeit the match."
-    }
+        "ja"            "{1} が 10 秒後までに準備完了しない場合試合は不戦となります。"
+    } //ここまで完了
     "PausePeriodSuffix"
     {
         "en"            "for this half"
