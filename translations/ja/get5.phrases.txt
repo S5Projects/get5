@@ -91,16 +91,16 @@
     "MatchPausedByTeamMessage"
     {
         "#format"       "{1:N}"
-        "en"            "{1} paused the match."
+        "ja"            "{1} がマッチをポーズしました。"
     }
     "MatchTechPausedByTeamMessage"
     {
         "#format"       "{1:N}"
-        "en"            "{1} has called for a technical pause."
+        "ja"            "{1} がテクニカルポーズを行いました。"
     }
     "AdminForceTechPauseInfoMessage"
     {
-        "en"            "An admin has called for a technical pause."
+        "ja"            "管理者がテクニカルポーズを行いました。"
     }
     "PauseTimeExpiration10SecInfoMessage"
     {
@@ -120,12 +120,12 @@
     "MatchUnpauseInfoMessage"
     {
         "#format"       "{1:N}"
-        "en"            "{1:N} unpaused the match."
+        "ja"            "{1:N} がポーズを解除しました。"
     }
     "WaitingForUnpauseInfoMessage"
     {
         "#format"       "{1:s},{2:s}"
-        "en"            "{1} wants to unpause, waiting for {2} to type !unpause."
+        "ja"            "{1} がポーズの解除を希望しています。 {2} の!unpauseを待機しています。"
     }
     "PausesLeftInfoMessage"
     {
@@ -145,12 +145,12 @@
     "TeamReadyToVetoInfoMessage"
     {
         "#format"       "{1:s}"
-        "en"            "{1} is ready to veto."
+        "ja"            "{1} がVetoの準備を完了しました。"
     }
     "TeamReadyToRestoreBackupInfoMessage"
     {
         "#format"       "{1:s}"
-        "en"            "{1} is ready to restore the match backup."
+        "ja"            "{1} がバックアップ復元の準備を完了しました。"
     }
     "TeamReadyToKnifeInfoMessage"
     {
@@ -175,23 +175,23 @@
     "TeammateForceReadied"
     {
         "#format"       "{1:N}"
-        "en"            "Your team was force-readied by {GREEN}{1}"
+        "ja"            "あなたのチームは{GREEN}{1}{NORMAL}によって強制的に準備状態になりました。"
     }
     "AdminForceReadyInfoMessage"
     {
-        "en"            "An admin has force-readied all teams."
+        "ja"            "管理者が強制的に全チームを準備状態にしました。"
     }
     "AdminForceEndInfoMessage"
     {
-        "en"            "An admin force ended the match."
+        "ja"            "管理者がマッチを強制終了しました。"
     }
     "AdminForcePauseInfoMessage"
     {
-        "en"            "An admin force paused the match."
+        "ja"            "管理者がマッチを強制ポーズしました。"
     }
     "AdminForceUnPauseInfoMessage"
     {
-        "en"            "An admin force unpaused the match."
+        "ja"            "管理者がマッチポーズを強制解除しました。"
     }
     "TeamWantsToReloadLastRoundInfoMessage"
     {
@@ -216,7 +216,7 @@
     "TeamWonMatchInfoMessage"
     {
         "#format"       "{1:s}"
-        "en"            "{1} has won the match."
+        "ja"            "{1} がマッチに勝利しました。"
     }
     "TeamTiedMatchInfoMessage"
     {
@@ -235,7 +235,7 @@
     }
     "MatchFinishedInfoMessage"
     {
-        "en"            "The match has been finished"
+        "ja"            "マッチが終了しました。"
     }
     "CurrentScoreInfoMessage"
     {
@@ -250,15 +250,15 @@
     "MatchBeginInSecondsInfoMessage"
     {
         "#format"       "{1:d}"
-        "en"            "The match will begin in {1} seconds."
+        "ja"            "{1}秒後にマッチが開始します。"
     }
     "MatchIsLiveInfoMessage"
     {
-        "en"            "Match is {GREEN}LIVE"
+        "ja"            "マッチは{GREEN}LIVE"
     }
     "KnifeIn5SecInfoMessage"
     {
-        "en"            "The knife round will begin in 5 seconds."
+        "ja"            "5秒後にナイフラウンドが開始されます。"
     }
     "KnifeInfoMessage"
     {
@@ -267,22 +267,22 @@
     "TeamDecidedToStayInfoMessage"
     {
         "#format"       "{1:s}"
-        "en"            "{1} has decided to stay."
+        "ja"            "{1} は陣営変更しませんでした。"
     }
     "TeamDecidedToSwapInfoMessage"
     {
         "#format"       "{1:s}"
-        "en"            "{1} has decided to swap."
+        "ja"            "{1} は陣営を変更しました。"
     }
     "TeamLostTimeToDecideInfoMessage"
     {
         "#format"       "{1:s}"
-        "en"            "{1} will stay since they did not make a decision in time."
+        "ja"            "時間内に {1} が陣営が選択しなかった為、陣営は変更されません。"
     }
     "ChangingMapInfoMessage"
     {
         "#format"       "{1:s}"
-        "en"            "Changing map to {GREEN}{1}..."
+        "ja"            "マップを{GREEN}{1}{NORMAL}に変更します..."
     }
     "MapDecidedInfoMessage"
     {
@@ -306,11 +306,11 @@
     "TeamVetoedMapInfoMessage"
     {
         "#format"       "{1:s},{2:s}"
-        "en"            "{1} vetoed {LIGHT_RED}{2}"
+        "ja"            "{1} が {LIGHT_RED}{2}{NORMAL} をBANしました"
     }
     "CaptainLeftOnVetoInfoMessage"
     {
-        "en"            "A captain left during the veto, pausing the veto."
+        "ja"            "veto中にキャプテンが切断しました。vetoをポーズします。"
     }
     "ReadyToResumeVetoInfoMessage"
     {
@@ -318,27 +318,27 @@
     }
     "MatchConfigLoadedInfoMessage"
     {
-        "en"            "Loaded match config."
+        "ja"            "マッチ設定を読み込みました。"
     }
     "MoveToCoachInfoMessage"
     {
-        "en"            "Because your team is full, you were moved to the coach position."
+        "ja"            "チームが満員のため、あなたはコーチ枠に移動されました。"
     }
     "ReadyTag"
     {
-        "en"            "[READY]"
+        "ja"            "[READY]"
     }
     "NotReadyTag"
     {
-        "en"            "[NOT READY]"
+        "ja"            "[NOT READY]"
     }
     "MatchPoweredBy"
     {
-        "en"        "Powered by {YELLOW}Get5"
+        "ja"        "Powered by {YELLOW}Get5"
     }
     "MapVetoPickMenuText"
     {
-        "en"        "Select a map to PLAY:"
+        "ja"        "プレイするマップを選択してください:"
     }
     "MapVetoPickConfirmMenuText"
     {
@@ -347,7 +347,7 @@
     }
     "MapVetoBanMenuText"
     {
-        "en"        "Select a map to VETO:"
+        "ja"        "BANするマップを選択してください:"
     }
     "MapVetoBanConfirmMenuText"
     {
@@ -357,7 +357,7 @@
     "MapVetoSidePickMenuText"
     {
         "#format"       "{1:s}"
-        "en"        "Select a side for {1}"
+        "ja"        "{1}での陣営を選択してください"
     }
     "MapVetoSidePickConfirmMenuText"
     {
@@ -366,15 +366,15 @@
     }
     "ConfirmPositiveOptionText"
     {
-        "en"        "Yes"
+        "ja"        "はい"
     }
     "ConfirmNegativeOptionText"
     {
-        "en"        "No"
+        "ja"        "いいえ"
     }
     "VetoCountdown"
     {
         "#format"       "{1:i}"
-        "en"        "Veto commencing in {GREEN}{1} {NORMAL}seconds."
+        "ja"        "{GREEN}{1} {NORMAL}秒後にvetoが開始されます。"
     }
 }
