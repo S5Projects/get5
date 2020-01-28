@@ -2,77 +2,77 @@
 {
     "ReadyToVetoInfoMessage"
     {
-        "ja"            "チームのVetoが準備が出来たら{GREEN}!ready{NORMAL}と発言してください。"
+        "jp"            "チームのVetoが準備が出来たら{GREEN}!ready{NORMAL}と発言してください。"
     }
     "WaitingForCastersReadyInfoMessage"
     {
         "#format"       "{1:s}"
-        "ja"            "試合を開始する為に{1}の{GREEN}!ready{NORMAL}を待っています。"
+        "jp"            "試合を開始する為に{1}の{GREEN}!ready{NORMAL}を待っています。"
     }
     "ReadyToRestoreBackupInfoMessage"
     {
-        "ja"            "試合のバックアップの準備が出来たら{GREEN}!ready{NORMAL}と発言してください。"
+        "jp"            "試合のバックアップの準備が出来たら{GREEN}!ready{NORMAL}と発言してください。"
     }
     "ReadyToKnifeInfoMessage"
     {
-        "ja"            "ナイフラウンドの準備が出来たら{GREEN}!ready{NORMAL}と発言してください。"
+        "jp"            "ナイフラウンドの準備が出来たら{GREEN}!ready{NORMAL}と発言してください。"
     }
     "ReadyToStartInfoMessage"
     {
-        "ja"            "試合開始の準備が出来たら{GREEN}!ready{NORMAL}と発言してください。"
+        "jp"            "試合開始の準備が出来たら{GREEN}!ready{NORMAL}と発言してください。"
     }
     "YouAreReady"
     {
-        "ja"            "試合の準備を完了しました。"
+        "jp"            "試合の準備を完了しました。"
     }
     "YouAreNotReady"
     {
-        "ja"            "試合の準備を外しました。"
+        "jp"            "試合の準備を外しました。"
     }
     "WaitingForEnemySwapInfoMessage"
     {
         "#format"       "{1:s}"
-        "ja"            "{1}がナイフラウンドに勝利しました。{1}の!swap又は!stay選択を待っています。"
+        "jp"            "{1}がナイフラウンドに勝利しました。{1}の!swap又は!stay選択を待っています。"
     }
     "WaitingForGOTVBrodcastEndingInfoMessage"
     {
-        "ja"            "GOTVの放送が終了すると、マップが変更されます。"
+        "jp"            "GOTVの放送が終了すると、マップが変更されます。"
     }
     "WaitingForGOTVVetoInfoMessage"
     {
-        "ja"            "GOTVの放送が終了すると、Vetoが表示されます。"
+        "jp"            "GOTVの放送が終了すると、Vetoが表示されます。"
     }
     "NoMatchSetupInfoMessage"
     {
-        "ja"			"試合の設定が見つかりません。"
+        "jp"			"試合の設定が見つかりません。"
     }
     "YourAreNotAPlayerInfoMessage"
     {
-        "ja"            "あなたは試合のプレイヤーではありません。"
+        "jp"            "あなたは試合のプレイヤーではありません。"
     }
     "TeamIsFullInfoMessage"
     {
-        "ja"            "あなたのチームは満員です!"
+        "jp"            "あなたのチームは満員です!"
     }
     "TeamForfeitInfoMessage"
     {
         "#format"       "{1:s}"
-        "ja"            "{1} が時間内に準備完了出来なかったため、不戦となりました。"
+        "jp"            "{1} が時間内に準備完了出来なかったため、不戦となりました。"
     }
     "MinutesToForfeitMessage"
     {
         "#format"       "{1:s},{2:d}"
-        "ja"            "{1} が {2} 分後までに準備完了しない場合試合は不戦となります。"
+        "jp"            "{1} が {2} 分後までに準備完了しない場合試合は不戦となります。"
     }
     "SecondsToForfeitInfoMessage"
     {
         "#format"       "{1:s},{2:d}"
-        "ja"            "{1} が {2} 秒後までに準備完了しない場合試合は不戦となります。"
+        "jp"            "{1} が {2} 秒後までに準備完了しない場合試合は不戦となります。"
     }
     "10SecondsToForfeitInfoMessage"
     {
         "#format"       "{1:s}"
-        "ja"            "{1} が 10 秒後までに準備完了しない場合試合は不戦となります。"
+        "jp"            "{1} が 10 秒後までに準備完了しない場合試合は不戦となります。"
     } //ここまで完了
     "PausePeriodSuffix"
     {
@@ -91,16 +91,16 @@
     "MatchPausedByTeamMessage"
     {
         "#format"       "{1:N}"
-        "ja"            "{1} がマッチをポーズしました。"
+        "jp"            "{1} がマッチをポーズしました。"
     }
     "MatchTechPausedByTeamMessage"
     {
         "#format"       "{1:N}"
-        "ja"            "{1} がテクニカルポーズを行いました。"
+        "jp"            "{1} がテクニカルポーズを行いました。"
     }
     "AdminForceTechPauseInfoMessage"
     {
-        "ja"            "管理者がテクニカルポーズを行いました。"
+        "jp"            "管理者がテクニカルポーズを行いました。"
     }
     "PauseTimeExpiration10SecInfoMessage"
     {
@@ -120,12 +120,12 @@
     "MatchUnpauseInfoMessage"
     {
         "#format"       "{1:N}"
-        "ja"            "{1:N} がポーズを解除しました。"
+        "jp"            "{1:N} がポーズを解除しました。"
     }
     "WaitingForUnpauseInfoMessage"
     {
         "#format"       "{1:s},{2:s}"
-        "ja"            "{1} がポーズの解除を希望しています。 {2} の!unpauseを待機しています。"
+        "jp"            "{1} がポーズの解除を希望しています。 {2} の!unpauseを待機しています。"
     }
     "PausesLeftInfoMessage"
     {
@@ -145,12 +145,12 @@
     "TeamReadyToVetoInfoMessage"
     {
         "#format"       "{1:s}"
-        "ja"            "{1} がVetoの準備を完了しました。"
+        "jp"            "{1} がVetoの準備を完了しました。"
     }
     "TeamReadyToRestoreBackupInfoMessage"
     {
         "#format"       "{1:s}"
-        "ja"            "{1} がバックアップ復元の準備を完了しました。"
+        "jp"            "{1} がバックアップ復元の準備を完了しました。"
     }
     "TeamReadyToKnifeInfoMessage"
     {
@@ -175,23 +175,23 @@
     "TeammateForceReadied"
     {
         "#format"       "{1:N}"
-        "ja"            "あなたのチームは{GREEN}{1}{NORMAL}によって強制的に準備状態になりました。"
+        "jp"            "あなたのチームは{GREEN}{1}{NORMAL}によって強制的に準備状態になりました。"
     }
     "AdminForceReadyInfoMessage"
     {
-        "ja"            "管理者が強制的に全チームを準備状態にしました。"
+        "jp"            "管理者が強制的に全チームを準備状態にしました。"
     }
     "AdminForceEndInfoMessage"
     {
-        "ja"            "管理者がマッチを強制終了しました。"
+        "jp"            "管理者がマッチを強制終了しました。"
     }
     "AdminForcePauseInfoMessage"
     {
-        "ja"            "管理者がマッチを強制ポーズしました。"
+        "jp"            "管理者がマッチを強制ポーズしました。"
     }
     "AdminForceUnPauseInfoMessage"
     {
-        "ja"            "管理者がマッチポーズを強制解除しました。"
+        "jp"            "管理者がマッチポーズを強制解除しました。"
     }
     "TeamWantsToReloadLastRoundInfoMessage"
     {
@@ -216,7 +216,7 @@
     "TeamWonMatchInfoMessage"
     {
         "#format"       "{1:s}"
-        "ja"            "{1} がマッチに勝利しました。"
+        "jp"            "{1} がマッチに勝利しました。"
     }
     "TeamTiedMatchInfoMessage"
     {
@@ -235,7 +235,7 @@
     }
     "MatchFinishedInfoMessage"
     {
-        "ja"            "マッチが終了しました。"
+        "jp"            "マッチが終了しました。"
     }
     "CurrentScoreInfoMessage"
     {
@@ -250,15 +250,15 @@
     "MatchBeginInSecondsInfoMessage"
     {
         "#format"       "{1:d}"
-        "ja"            "{1}秒後にマッチが開始します。"
+        "jp"            "{1}秒後にマッチが開始します。"
     }
     "MatchIsLiveInfoMessage"
     {
-        "ja"            "マッチは{GREEN}LIVE"
+        "jp"            "マッチは{GREEN}LIVE"
     }
     "KnifeIn5SecInfoMessage"
     {
-        "ja"            "5秒後にナイフラウンドが開始されます。"
+        "jp"            "5秒後にナイフラウンドが開始されます。"
     }
     "KnifeInfoMessage"
     {
@@ -267,22 +267,22 @@
     "TeamDecidedToStayInfoMessage"
     {
         "#format"       "{1:s}"
-        "ja"            "{1} は陣営変更しませんでした。"
+        "jp"            "{1} は陣営変更しませんでした。"
     }
     "TeamDecidedToSwapInfoMessage"
     {
         "#format"       "{1:s}"
-        "ja"            "{1} は陣営を変更しました。"
+        "jp"            "{1} は陣営を変更しました。"
     }
     "TeamLostTimeToDecideInfoMessage"
     {
         "#format"       "{1:s}"
-        "ja"            "時間内に {1} が陣営が選択しなかった為、陣営は変更されません。"
+        "jp"            "時間内に {1} が陣営が選択しなかった為、陣営は変更されません。"
     }
     "ChangingMapInfoMessage"
     {
         "#format"       "{1:s}"
-        "ja"            "マップを{GREEN}{1}{NORMAL}に変更します..."
+        "jp"            "マップを{GREEN}{1}{NORMAL}に変更します..."
     }
     "MapDecidedInfoMessage"
     {
@@ -306,11 +306,11 @@
     "TeamVetoedMapInfoMessage"
     {
         "#format"       "{1:s},{2:s}"
-        "ja"            "{1} が {LIGHT_RED}{2}{NORMAL} をBANしました"
+        "jp"            "{1} が {LIGHT_RED}{2}{NORMAL} をBANしました"
     }
     "CaptainLeftOnVetoInfoMessage"
     {
-        "ja"            "veto中にキャプテンが切断しました。vetoをポーズします。"
+        "jp"            "veto中にキャプテンが切断しました。vetoをポーズします。"
     }
     "ReadyToResumeVetoInfoMessage"
     {
@@ -318,27 +318,27 @@
     }
     "MatchConfigLoadedInfoMessage"
     {
-        "ja"            "マッチ設定を読み込みました。"
+        "jp"            "マッチ設定を読み込みました。"
     }
     "MoveToCoachInfoMessage"
     {
-        "ja"            "チームが満員のため、あなたはコーチ枠に移動されました。"
+        "jp"            "チームが満員のため、あなたはコーチ枠に移動されました。"
     }
     "ReadyTag"
     {
-        "ja"            "[READY]"
+        "jp"            "[READY]"
     }
     "NotReadyTag"
     {
-        "ja"            "[NOT READY]"
+        "jp"            "[NOT READY]"
     }
     "MatchPoweredBy"
     {
-        "ja"        "Powered by {YELLOW}Get5"
+        "jp"        "Powered by {YELLOW}Get5"
     }
     "MapVetoPickMenuText"
     {
-        "ja"        "プレイするマップを選択してください:"
+        "jp"        "プレイするマップを選択してください:"
     }
     "MapVetoPickConfirmMenuText"
     {
@@ -347,7 +347,7 @@
     }
     "MapVetoBanMenuText"
     {
-        "ja"        "BANするマップを選択してください:"
+        "jp"        "BANするマップを選択してください:"
     }
     "MapVetoBanConfirmMenuText"
     {
@@ -357,7 +357,7 @@
     "MapVetoSidePickMenuText"
     {
         "#format"       "{1:s}"
-        "ja"        "{1}での陣営を選択してください"
+        "jp"        "{1}での陣営を選択してください"
     }
     "MapVetoSidePickConfirmMenuText"
     {
@@ -366,15 +366,15 @@
     }
     "ConfirmPositiveOptionText"
     {
-        "ja"        "はい"
+        "jp"        "はい"
     }
     "ConfirmNegativeOptionText"
     {
-        "ja"        "いいえ"
+        "jp"        "いいえ"
     }
     "VetoCountdown"
     {
         "#format"       "{1:i}"
-        "ja"        "{GREEN}{1} {NORMAL}秒後にvetoが開始されます。"
+        "jp"        "{GREEN}{1} {NORMAL}秒後にvetoが開始されます。"
     }
 }
